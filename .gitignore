@@ -10,5 +10,5 @@ myenv/
 # Logs
 *.log
 control_log.txt
-
+conversations/
 
